@@ -1,3 +1,4 @@
 create navigation component
 
 - Main Fragment
+       -Game Setting
