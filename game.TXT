@@ -1,1 +1,2 @@
 - 타임바 View 
+- GameSetting에서 넘겨 받은 safeArgs 추가
